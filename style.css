@@ -76,6 +76,7 @@ text-shadow: 2px 2px 5px black;
        color: white;
     text-align: center;
     font-size: 4vw;
+    position: absolute;
    margin-top: -15vh;
 opacity: 60%;
 font-family: "Roboto";
@@ -85,7 +86,7 @@ z-index: 4;
 .moonmen{
     width: 100%;
     height: 60vw;
-    margin-top: -3vw;
+    margin-top: -10vw;
     background-color: black;
     position: relative;
     z-index: 0;
